@@ -16,19 +16,107 @@ In building PeerPrep, we seek to achieve the following objectives:
 
 # Functional Requirements
 
-TODO - create more sub-sections here
+## User Service
+
+| ID     | Description | Priority |
+| ------ | ----------- | -------- |
+| F-US-1 | TODO        | TODO     |
+
+## Matching Service
+
+| ID     | Description | Priority |
+| ------ | ----------- | -------- |
+| F-MA-1 | TODO        | TODO     |
+
+## Question Service
+
+| ID     | Description | Priority |
+| ------ | ----------- | -------- |
+| F-QU-1 | TODO        | TODO     |
+
+## Collaboration Service
+
+| ID     | Description | Priority |
+| ------ | ----------- | -------- |
+| F-CO-1 | TODO        | TODO     |
+
+## Chat Service
+
+| ID     | Description | Priority |
+| ------ | ----------- | -------- |
+| F-CH-1 | TODO        | TODO     |
+
+## Application Service
+
+| ID     | Description | Priority |
+| ------ | ----------- | -------- |
+| F-AP-1 | TODO        | TODO     |
 
 # Non-Functional Requirements
 
+TODO - Requirement Prioritization table (refer to slide 42 of Lecture 2)
+
+## Availability Requirements
+
+| ID     | Description | Priority |
+| ------ | ----------- | -------- |
+| N-AV-1 | TODO        | TODO     |
+
+## Integrity Requirements
+
+| ID     | Description | Priority |
+| ------ | ----------- | -------- |
+| N-IN-1 | TODO        | TODO     |
+
+## Performance Requirements
+
+| ID     | Description | Priority |
+| ------ | ----------- | -------- |
+| N-PE-1 | TODO        | TODO     |
+
+## Robustness Requirements
+
+| ID     | Description | Priority |
+| ------ | ----------- | -------- |
+| N-RO-1 | TODO        | TODO     |
+
+## Security Requirements
+
+| ID     | Description | Priority |
+| ------ | ----------- | -------- |
+| N-SE-1 | TODO        | TODO     |
+
+## Usability Requirements
+
+| ID     | Description | Priority |
+| ------ | ----------- | -------- |
+| N-US-1 | TODO        | TODO     |
+
+## Scalability Requirements
+
+| ID     | Description | Priority |
+| ------ | ----------- | -------- |
+| N-SC-1 | TODO        | TODO     |
+
 # Solution Architecture
+
+TODO
 
 # Development Process
 
+TODO
+
 # Design Patterns
+
+TODO
 
 # Possible Enhancements
 
+TODO
+
 # Reflections and Learning Points
+
+TODO
 
 # Individual Contributions
 
@@ -36,22 +124,38 @@ TODO - create more sub-sections here
 
 ### Technical Contributions
 
+TODO
+
 ### Non-Technical Contributions
+
+TODO
 
 ## Ryan Low Bing Heng
 
 ### Technical Contributions
 
+TODO
+
 ### Non-Technical Contributions
+
+TODO
 
 ## Tang Wei Teck Frederick
 
 ### Technical Contributions
 
+TODO
+
 ### Non-Technical Contributions
+
+TODO
 
 ## Yeap Yi Sheng James
 
 ### Technical Contributions
 
+TODO
+
 ### Non-Technical Contributions
+
+TODO
