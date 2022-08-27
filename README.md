@@ -12,7 +12,7 @@ In building PeerPrep, we seek to achieve the following objectives:
 
 - Give students an effective way to improve their ability to articulate key technical concepts
 - Serve as a platform for students to learn from one another
-- Expose students to practice questions that improve their understanding of relevant technical concepts
+- Expose students to practice questions that can materially improve their understanding of relevant technical concepts
 
 # Functional Requirements
 
