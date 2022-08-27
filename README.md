@@ -1,10 +1,34 @@
-# Background
+# Introduction
 
-TODO
+## Background
 
-# Purpose
+Increasingly, students face challenging technical interviews when applying for jobs which many have difficulty dealing with. Issues range from a lack of communication skills to articulate their thought process out loud to an outright inability to understand and solve the given problem. Moreover, grinding practice questions can be tedious and monotonous.
 
-TODO
+## Purpose
+
+To tackle these issues, our team is working on PeerPrep: a peer learning system where students can find peers to practice whiteboard-style interview questions together.
+
+In building PeerPrep, we seek to achieve the following objectives:
+
+- Give students an effective way to improve their ability to articulate key technical concepts
+- Serve as a platform for students to learn from one another
+- Expose students to practice questions that improve their understanding of relevant technical concepts
+
+# Functional Requirements
+
+TODO - create more sub-sections here
+
+# Non-Functional Requirements
+
+# Solution Architecture
+
+# Development Process
+
+# Design Patterns
+
+# Possible Enhancements
+
+# Reflections and Learning Points
 
 # Individual Contributions
 
@@ -31,23 +55,3 @@ TODO
 ### Technical Contributions
 
 ### Non-Technical Contributions
-
-# Functional Requirements
-
-TODO - create more sub-sections here
-
-# Developer Documentation
-
-## Development Process
-
-## Architectural Diagrams
-
-## ABCDEFG Diagrams
-
-TODO - figure out what diagrams are relevant and create more sub-sections
-
-## Design Patterns
-
-# Possible Enhancements
-
-# Reflections and Learning Points
