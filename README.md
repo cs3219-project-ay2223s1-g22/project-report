@@ -18,9 +18,14 @@ In building PeerPrep, we seek to achieve the following objectives:
 
 ## User Service
 
-| ID     | Description | Priority |
-| ------ | ----------- | -------- |
-| F-US-1 | TODO        | TODO     |
+| ID     | Description                                                                                       | Priority |
+| ------ | ------------------------------------------------------------------------------------------------- | -------- |
+| F-US-1 | The system should allow users to create an account with username and password.                    | High     |
+| F-US-2 | The system should ensure that every account created has a unique username.                        | High     |
+| F-US-3 | The system should allow users to log into their accounts by entering their username and password. | High     |
+| F-US-4 | The system should allow users to log out of their account.                                        | High     |
+| F-US-5 | The system should allow users to delete their account.                                            | High     |
+| F-US-6 | The system should allow users to change their password.                                           | Medium   |
 
 ## Matching Service
 
@@ -82,9 +87,9 @@ TODO - Requirement Prioritization table (refer to slide 42 of Lecture 2)
 
 ## Security Requirements
 
-| ID     | Description | Priority |
-| ------ | ----------- | -------- |
-| N-SE-1 | TODO        | TODO     |
+| ID     | Description                                                            | Priority |
+| ------ | ---------------------------------------------------------------------- | -------- |
+| N-SE-1 | Users' passwords should be hashed and salted before storing in the DB. | Medium   |
 
 ## Usability Requirements
 
