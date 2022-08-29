@@ -35,7 +35,7 @@ In building PeerPrep, we seek to achieve the following objectives:
 | F-MA-2 | The system should be able to match two waiting users with similar difficulty levels and put them in the same room. | High     |
 | F-MA-3 | If there is a valid match, the system should match the users within 30s.                                           | High     |
 | F-MA-4 | The system should inform the users that no match is available if a match cannot be found within 30 seconds.        | High     |
-| F-MA-5 | The system should provide a means for the user to leave a room Medium No once matched.                             | Medium   |
+| F-MA-5 | The system should provide a means for the user to leave a room once matched.                                       | Medium   |
 
 ## Question Service
 
